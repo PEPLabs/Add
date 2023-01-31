@@ -4,10 +4,10 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class AddTest {
-    static Add a;
+    static Lab a;
     @Before
     public void setUp(){
-        a = new Add();
+        a = new Lab();
     }
 
     /**

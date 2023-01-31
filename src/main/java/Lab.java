@@ -1,5 +1,5 @@
 
-public class Add {
+public class Lab {
     /**
      * Let's say we're making a calculator app!
      *
