@@ -1,4 +1,5 @@
 cat <<EOF >.git/hooks/post-commit
+git push
 git log -1 --shortstat > history_log.txt
 mvn test >testCases_log.txt
 EOF
